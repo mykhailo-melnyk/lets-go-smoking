@@ -1,0 +1,6 @@
+dependencies: \
+  /Users/michael/Projects/own/lets-go-smoking/node_modules/react-native/ReactCommon/jsi/jsi/jsilib-posix.cpp \
+  /Users/michael/Projects/own/lets-go-smoking/ios/Pods/Target\ Support\ Files/React-jsi/React-jsi-prefix.pch \
+  /Users/michael/Projects/own/lets-go-smoking/ios/Pods/Headers/Private/React-jsi/jsi/jsilib.h \
+  /Users/michael/Projects/own/lets-go-smoking/ios/Pods/Headers/Private/React-jsi/jsi/jsi.h \
+  /Users/michael/Projects/own/lets-go-smoking/ios/Pods/Headers/Private/React-jsi/jsi/jsi-inl.h
